@@ -1,0 +1,2 @@
+# AuthorizationService.
+# Задача «Сервис авторизации».
